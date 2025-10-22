@@ -1,5 +1,5 @@
 //
-//  maintenance_wizardApp.swift
+//  MaintenanceTrackerApp.swift
 //  maintenance_wizard
 //
 //  Created by Aki Leinonen on 23.10.2025.
@@ -16,10 +16,12 @@ class AppDelegate: NSObject, UIApplicationDelegate {
   }
 }
 
+
 @main
-struct YourApp: App {
+struct MaintenanceTrackerApp: App {
   // register app delegate for Firebase setup
   @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    
 
   var body: some Scene {
     WindowGroup {
