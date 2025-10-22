@@ -165,3 +165,4 @@ logs/
 
 # Archive files (usually generated for App Store submission)
 *.xcarchive
+GoogleService-Info.plist
