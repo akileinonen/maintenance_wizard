@@ -166,3 +166,6 @@ logs/
 # Archive files (usually generated for App Store submission)
 *.xcarchive
 GoogleService-Info.plist
+GoogleService-Info.plist
+maintenance_wizard/maintenance_wizard/GoogleService-Info.plist
+**/GoogleService-Info.plist
